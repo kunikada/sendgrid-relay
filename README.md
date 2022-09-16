@@ -1,5 +1,5 @@
 # sendgrid-relay
-SMPT relay to SendGrid
+SMTP relay to SendGrid
 
 ## Usage
 ```
